@@ -10,7 +10,7 @@ Sou Tiago Senger, graduado em Engenharia de Produção que ao longo da vivência
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="100" height="100">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="100" height="100">
-  <img src="https://w7.pngwing.com/pngs/1014/365/png-transparent-angular-js-full-logo-tech-companies.png" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="100" height="100">
 </div>
 
 ## Projetos Destacados
